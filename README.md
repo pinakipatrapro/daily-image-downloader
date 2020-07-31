@@ -7,3 +7,6 @@ Downlaod multiple random walpapers and set it as desktop background
 3. Run Image Downloader.exe
 
 4. Set the windows slideshow folder as DailyUpdated
+
+
+Convert create exe:- pyinstaller --onefile -w 'filename.py'
